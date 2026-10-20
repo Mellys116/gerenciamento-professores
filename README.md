@@ -6,10 +6,10 @@ API RESTful desenvolvida em Node.js com Express para o gerenciamento de professo
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **Node.js**
-- **Express**
-- **Nodemon** (ambiente de desenvolvimento)
-- **Thunder Client** (testes e requisições HTTP)
+- Node.js
+- Express
+- Nodemon (ambiente de desenvolvimento)
+- Thunder Client (testes e requisições HTTP)
 
 ---
 
@@ -17,4 +17,4 @@ API RESTful desenvolvida em Node.js com Express para o gerenciamento de professo
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone [https://github.com/Mellys116/gerenciamento-professores.git](https://github.com/Mellys116/gerenciamento-professores.git)
